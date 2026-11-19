@@ -1,0 +1,17 @@
+MARA MEMORY COACH - VIEW AND TEST ONLY LICENSE
+
+Copyright (c) 2026 Yahya Idriss Ibrahim, Djibouti. All rights reserved.
+
+You may VIEW this repository and TEST the public live API for evaluation only.
+
+You may NOT:
+- Copy, clone, fork, download, reuse, or redistribute the source code
+- Use the code in any commercial product, agent, or service
+- Train a model on this code
+- Remove this license
+
+The core logic (multi-source voting, normalization, SHA-256 proof)
+is PRIVATE and runs only on Railway. This public repo contains
+only demo + results.
+
+Any violation will be reported to GitHub and pursued legally.
